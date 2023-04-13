@@ -15,7 +15,8 @@ The goal of this analysis task is to analyze a dataset of hotel bookings to gain
 
 The analysis will be performed using Python programming language and popular data science libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 The analysis steps that took place are as follows:
-    01. Data cleaning
-            This includes finding the null/empty data.
-    02. Exploratory Data Analysis
-            This includes generating visualizations to gain insights.
+
+>   01. Data cleaning
+>           This includes finding the null/empty data.
+>   02. Exploratory Data Analysis
+>           This includes generating visualizations to gain insights.
